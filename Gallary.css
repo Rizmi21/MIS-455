@@ -1,0 +1,12 @@
+img{height: 300px;
+width: 300px;
+}
+body{display:grid}
+h1 {
+    background: #c50404;
+    color: #fff;
+    padding: 10px 0;
+}
+h1 {
+    text-align: center;
+}

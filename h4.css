@@ -1,0 +1,13 @@
+header {
+    background: #c50404;
+    color: #fff;
+    padding: 10px 0;
+}
+h1{
+    text-align: center;
+    background-color: #c50404;
+    color: rgb(236, 213, 213);
+}
+img{height: 400px;
+    width: 500px;
+    }
